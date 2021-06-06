@@ -1,0 +1,1 @@
+print('Zin in galgje?')
